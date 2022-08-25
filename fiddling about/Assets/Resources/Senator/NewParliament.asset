@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8bd697e2b4cfd143b834a7d3ae6db5b, type: 3}
+  m_Name: NewParliament
+  m_EditorClassIdentifier: 
+  ListOfSenators:
+  - senatorName: Chris May
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: Teresa May
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: Jake Green
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: George White
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: George Grey
+    senatorsAffiliation: 0
+    senatorsBelief: 0
+  - senatorName: April Goatfucker
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: Sarah White
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: George Green
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: John Carpenter
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: John Smith
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: Jake Carpenter
+    senatorsAffiliation: 0
+    senatorsBelief: 0
+  - senatorName: Bill Brown
+    senatorsAffiliation: 0
+    senatorsBelief: 0
+  - senatorName: John Brown
+    senatorsAffiliation: 0
+    senatorsBelief: 0
+  - senatorName: George Carpenter
+    senatorsAffiliation: 2
+    senatorsBelief: 0
+  - senatorName: Jimmy Grey
+    senatorsAffiliation: 0
+    senatorsBelief: 0

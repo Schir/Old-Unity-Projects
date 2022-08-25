@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb41b40ca25a1c41bf1a8a28e1e3d4a, type: 3}
+  m_Name: Dialogue1-1
+  m_EditorClassIdentifier: 
+  id: 1
+  location: 1
+  DialogItems:
+  - Character: 0
+    CharacterPosition: 0
+    CharacterPic: {fileID: 21300000, guid: 6dd3ad985e52b35438098e2d250c0bf5, type: 3}
+    DialogueText: Hey, what's this?
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 1
+    CharacterPosition: 0
+    CharacterPic: {fileID: 21300000, guid: 1360dac00768954468b391be760b2f50, type: 3}
+    DialogueText: That's one of the vats where we grow new robots!
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 0
+    CharacterPosition: 0
+    CharacterPic: {fileID: 21300000, guid: 6dd3ad985e52b35438098e2d250c0bf5, type: 3}
+    DialogueText: What?
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 1
+    CharacterPosition: 0
+    CharacterPic: {fileID: 21300000, guid: 1360dac00768954468b391be760b2f50, type: 3}
+    DialogueText: Yeah!
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}

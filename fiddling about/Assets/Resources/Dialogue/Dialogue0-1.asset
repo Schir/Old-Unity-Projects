@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb41b40ca25a1c41bf1a8a28e1e3d4a, type: 3}
+  m_Name: Dialogue0-1
+  m_EditorClassIdentifier: 
+  id: 1
+  location: 0
+  DialogItems:
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Recently, a walled city was opened to the public for the first time.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: The city was called Yuuz. It was ruled by two competing gangs.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: In a public relations move, the gangs tried letting news organizations
+      into the place.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Unfortunately, a few of the reporters stuck their noses in a bit
+      too deep.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: When we last left off, Newspost Gazette reporter Claire Sinclair
+      appeared to have just been shot and executed in a sham trial for finding one
+      dirty secret too many.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: As it turns out, Claire survived thanks to a mess of bullshit around
+      the inner workings of the healing ooze extracted in the hellscape of Yuuz.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Knowing the workings of the ooze, the gangs of Yuuz went and tossed
+      Claire's unconscious body into an ancient teleporter they had lying around.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Of course, the gangs didn't quite know it was a teleporter because
+      none of their scouts ever came back from it.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: I mean, it teleports people halfway across the galaxy. Like, Yuuz
+      is a shithole. Nobody would've come back even if they wanted to.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: 'Point is: Claire survived.'
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Presently, she's ended up in the Multipurpose Synthetic Biological/Mechanical
+      Organism and AI Technological Facility for Research and Development, a division
+      of Blacksea Incorporated (a family company) (registered trademark) (accepts
+      bitcoin).
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: That's a mouthful, so we're just going to call it Robot Office World.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: 'Now Claire''s going to need to find a way off of this planet if
+      she wants to make her way back home. '
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Or not. I mean, Robot Office World's a nice enough place even if
+      all the robots are dumb as a sack of potatoes.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Like, she COULD go home to her two cats and modestly-exciting day
+      job or she could stay on this alien planet (that just happens to be totally
+      habitable by humans) and become ruling cyborg-god-queen of the AI.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Man, that sounds way cooler than Yet Another Hokey Space Story About
+      Being Lost And Wanting To Go Home. Okay, change of plans, we're doing that.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: I'm sure the cats will be fine. Besides, with all the weird time
+      stuff that happens when you compress spacetime they're probably dead by now
+      anyway.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}
+  - Character: 4
+    CharacterPosition: 2
+    CharacterPic: {fileID: 0}
+    DialogueText: Anyway, it looks like Claire's waking up. Let's go see what's up.
+    TextPlayBackSpeed: 0
+    PlayBackSoundFile: {fileID: 0}

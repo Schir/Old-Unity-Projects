@@ -1,0 +1,21 @@
+using UnityEngine;
+using UnityEditor;
+using System;
+using System.Collections.Generic;
+
+public class SenatorAsest
+{
+    [MenuItem("Assets/Create/Parliament")]
+    public static void CreateAsset ()
+    {
+        MembersOfParliament asset = ScriptableObject.CreateInstance<MembersOfParliament>();
+        
+        AssetDatabase.CreateAsset(asset, "Assets/Resources/Senator/NewParliament.asset");
+
+        AssetDatabase.SaveAssets();
+        
+        EditorUtility.FocusProjectWindow();
+
+        Selection.activeObject = asset;
+    }
+}

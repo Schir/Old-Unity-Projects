@@ -1,0 +1,7 @@
+PackageCache/
+Artifacts/
+ScriptAssemblies/
+Bee/
+ShaderCache/
+**.meta
+.plastic

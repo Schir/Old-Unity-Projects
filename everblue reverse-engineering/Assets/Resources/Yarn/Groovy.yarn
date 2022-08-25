@@ -1,0 +1,14 @@
+title: Groovy
+tags:
+colorID: 0
+position: 524,111
+---
+<<if $sawGroovy is false>>
+	Groovy: Hello! My life is agony!
+	Player: Can I help?
+	Groovy: Nope!
+	<<set $sawGroovy to true>>
+<<else>>
+	Groovy: I exist only to suffer!
+<<endif>>
+===
